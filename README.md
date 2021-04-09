@@ -5,9 +5,9 @@
 npm install
 ```
 
-### Compiles and hot-reloads for development
+### Compiles, auto-launches app in browser, and hot-reloads for development
 ```
-npm run serve
+npm run start
 ```
 
 ### Compiles and minifies for production
